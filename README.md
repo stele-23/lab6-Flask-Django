@@ -1,14 +1,14 @@
 # Lab 6 — Introduction to Django and Flask Web Frameworks
 ---
 
-## 🧩 Objective
+## Objective
 This lab demonstrates building simple web applications using **Flask** and **Django** to understand routing, templating, and view handling.
 
 ---
 
-## 🚀 How to Run Each App
+## How to Run Each App
 
-### 🧠 Flask Application
+### Flask Application
 
 **Folder:** `Flask_App/`
 
@@ -35,7 +35,7 @@ When you enter your name, Flask displays a personalized greeting.
 
 ---
 
-### 🧱 Django Application
+### Django Application
 
 **Folder:** `Django_App/`
 
@@ -64,7 +64,7 @@ Open your browser and visit:
 
 ---
 
-## 🧰 Summary of What Was Implemented
+## What Was Implemented
 
 ### Flask
 - A lightweight app with:
@@ -84,13 +84,11 @@ Open your browser and visit:
 
 
 
-## 🧑‍💻 Tech Summary
+## Summary
 | Framework | Type | Key Feature Used | Local URL |
 |------------|------|------------------|------------|
 | Flask | Lightweight | Routing, Templates, Forms | http://127.0.0.1:5000/ |
 | Django | Full Framework | Models, Admin, Templates, Dynamic URLs | http://127.0.0.1:8000/ |
 
 ---
-
-**End of README**
 
